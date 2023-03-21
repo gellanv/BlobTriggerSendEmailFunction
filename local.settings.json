@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "BlobConnectionString": "XXX",
+    "DisplayName": "SendEmailNotification",
+    "From": "XXX",
+    "Host": "XXX",
+    "Password": "XXX",
+    "Port": 465,
+    "UserEmailName": "XXX"
+  }
+}
